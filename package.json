@@ -1,0 +1,27 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "The tutorial for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiven-wang/typescript-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiven-wang/typescript-tutorial/issues"
+  },
+  "homepage": "https://github.com/tiven-wang/typescript-tutorial#readme",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.3.0",
+    "jquery": "^3.3.1"
+  }
+}
